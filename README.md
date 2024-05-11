@@ -23,11 +23,12 @@ Feedback e Resultados: Ao final do simulado, o usuário recebe feedback sobre se
 ### Fase 4: Publicação no GitHub
 Criação do Repositório: Um repositório no GitHub ("projeto-simulado") foi criado para hospedar o código-fonte do projeto.
 Organização dos Arquivos: O repositório contém os seguintes arquivos:
-#### README.md: Este arquivo, com a descrição detalhada do projeto.
-#### questoes_simulado.csv: O arquivo CSV com as questões, alternativas e gabaritos.
-#### simulado.ipynb: O código-fonte do simulado em formato Jupyter Notebook.
-#### cadastro_questao.ipynb: Um notebook auxiliar para cadastrar novas questões no DataFrame.
-#### CNPU - Conhecimentos Específicos.txt: O documento original com o conteúdo programático.
+##### README.md: Este arquivo, com a descrição detalhada do projeto.
+##### questoes_simulado.csv: O arquivo CSV com as questões, alternativas e gabaritos.
+##### simulado.ipynb: O código-fonte do simulado em formato Jupyter Notebook.
+##### cadastro_questao.ipynb: Um notebook auxiliar para cadastrar novas questões no DataFrame.
+##### CNPU - Conhecimentos Específicos.txt: O documento original com o conteúdo programático.
+##### projeto-simulado-iastudio: Arquivo do prompt do IA Studio Google utilizado para a realização do projeto
 ### Próximos Passos
 Aprimoramento da Interface: Criar uma interface gráfica mais amigável e interativa para o usuário.
 Expansão do Banco de Questões: Adicionar mais questões ao sistema, abrangendo outros concursos e áreas de conhecimento.
